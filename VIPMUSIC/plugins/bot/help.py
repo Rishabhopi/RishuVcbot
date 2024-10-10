@@ -340,12 +340,12 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
         [
             InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=config.OWNER_ID[0]),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/ur_support07"
+                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/ROYALS_APEAL"
             ),
         ],
         [
-            InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"t.me/RishuNetwork"),
-            InlineKeyboardButton(text="ᴀʟʟ ʙᴏᴛs", url=f"https://t.me/Vip_robotz/4"),
+            InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"t.me/l_ABOUT_PRINCE_l"),
+            InlineKeyboardButton(text="ᴀʟʟ ʙᴏᴛs", url=f"https://t.me/l_ABOUT_PRINCE_l"),
         ],
         [
             InlineKeyboardButton(text="𖨠Back𖨠", callback_data="about")
@@ -422,7 +422,7 @@ async def music_callback(client: Client, callback_query: CallbackQuery):
     )
 
     await callback_query.message.edit(
-        f"**Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ.](t.me/ur_support07)**\n\n**Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**",
+        f"**Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ.](t.me/ROYALS_APEAL)**\n\n**Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**",
         reply_markup=keyboard,
     )
 
@@ -489,7 +489,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
             InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=config.OWNER_ID[0]),
             InlineKeyboardButton(
                 text="ᴀʟʟ ʙᴏᴛs",
-                url="https://t.me/Vip_robotz/4",
+                url="https://t.me/ROYALS_APEAL",
             ),
         ],
         [
