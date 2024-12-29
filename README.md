@@ -1,6 +1,6 @@
  ㅤ ㅤ     ㅤㅤ 「 🖤●𓆩ꭘ꯭༎꯭ࠫ 𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ ا‌꯭ᚚ꯭ᚐᷩ ⷽ ꯭ᷩ ⷱ༎꯭ࠫ𝂜𔘓༌🥂 / ‹𝟹🖤 」
   [![Video](https://envs.sh/oKk.mp4)](https://envs.sh/oKk.mp4)
-   [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ")](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ")
+   [![𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ")](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ")
 
 <a href="https://www.youtube.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
 
@@ -29,7 +29,7 @@
     />
 <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=TheChampu&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Rishubot&theme=tokyonight"
     />
 </p>
 
@@ -38,14 +38,13 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/TheChampu/count.svg" />
 
-<a href="https://github.com/Rishubot"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
+<a href="https://github.com/Rishubot"><img alt="Website" src="https://img.shields.io/badge/𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ-red"></a>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Shivanshu_deo)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-F5AD09?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/shivanshudeo?share_id=0SMI0ikB1E4&locale=en-IN)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-F5AD09?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/RishuCoder?share_id=0SMI0ikB1E4&locale=en-IN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://telegra.ph/%EA%9C%B1n%CE%B9%CE%BD%CE%B1i%D1%95n%CF%85-12-02)
-[![Youtube](https://img.shields.io/badge/-YouTube-F50909?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shivanshudeo)
+
 
 
  <h3></h3>
@@ -58,9 +57,9 @@
 
 <h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
 
-[![MUSIC](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/Cruella_Robot)
-[![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/TheKittyXD_Bot)
+[![MUSIC](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/vip_music_vc_bot)
+[![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/RishuMusic_bot)
 
 <h1>  ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="𝕮𝖍𝖆𝖒𝖕𝖚 Spotify" width="75%" />](https://open.spotify.com/user/31upue756rj6rctmc2gxdwvj5vri?si=hVSKCshlR3WUDi8qXBKyXw&utm_source=copy-link)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ Spotify" width="75%" />](https://open.spotify.com/user/31upue756rj6rctmc2gxdwvj5vri?si=hVSKCshlR3WUDi8qXBKyXw&utm_source=copy-link)
