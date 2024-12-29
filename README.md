@@ -1,4 +1,4 @@
- ㅤ ㅤ     ㅤㅤ 「 🖤●𓆩ꭘ꯭༎꯭ࠫ 🇷𝐈ѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ ا‌꯭ᚚ꯭ᚐᷩ ⷽ ꯭ᷩ ⷱ༎꯭ࠫ𝂜𔘓༌🥂 / ‹𝟹🖤 」
+ ㅤ ㅤ     ㅤㅤ 「 🖤●𓆩ꭘ꯭༎꯭ࠫ 𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ ا‌꯭ᚚ꯭ᚐᷩ ⷽ ꯭ᷩ ⷱ༎꯭ࠫ𝂜𔘓༌🥂 / ‹𝟹🖤 」
   [![Video](https://envs.sh/oKk.mp4)](https://envs.sh/oKk.mp4)
    [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ")](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ")
 
