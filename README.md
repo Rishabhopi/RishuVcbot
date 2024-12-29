@@ -1,12 +1,12 @@
  ㅤ ㅤ     ㅤㅤ 「 🖤●𓆩ꭘ꯭༎꯭ࠫ 🇷𝐈ѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ ا‌꯭ᚚ꯭ᚐᷩ ⷽ ꯭ᷩ ⷱ༎꯭ࠫ𝂜𔘓༌🥂 / ‹𝟹🖤 」
-  [![GIF](https://envs.sh/oKk.mp4)](https://envs.sh/oKk.mp4)
-   [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝕮𝖍𝖆𝖒𝖕𝖚")](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝕮𝖍𝖆𝖒𝖕𝖚")
+  [![Video](https://envs.sh/oKk.mp4)](https://envs.sh/oKk.mp4)
+   [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ")](https://github-stats-alpha.vercel.app/api?username=Rishubot "𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ")
 
 <a href="https://www.youtube.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
 
  ━━━━━━━━━━━━━━━━━━━   
 
-  ●♡ 🄽ᴀᴍᴇ:  𝐃ᴇᴏ
+●♡ 🄽ᴀᴍᴇ   : 𝐑ɪѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ 𝐃ᴇᴏ
 
 ●♡ 🄰ɢᴇ    :  𝐊𝐲𝐚 𝐤𝐚𝐫𝐨𝐠𝐞 𝐣𝐚𝐚𝐧 𝐤𝐚𝐫..?
 
