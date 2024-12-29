@@ -1,5 +1,5 @@
  ㅤ ㅤ     ㅤㅤ 「 🖤●𓆩ꭘ꯭༎꯭ࠫ 🇷𝐈ѕ꯭፝֟፝֟፝֟፝֟፝֟፝֟нᴜ ا‌꯭ᚚ꯭ᚐᷩ ⷽ ꯭ᷩ ⷱ༎꯭ࠫ𝂜𔘓༌🥂 / ‹𝟹🖤 」
-  [![GIF](https://github.com/RishuBot/RishuManagement/blob/main/TheChampu.gif)](https://github.com/Rishubot)
+  [![GIF](https://envs.sh/oKk.mp4)](https://github.com/Rishubot)
    [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")
 
 <a href="https://www.youtube.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
